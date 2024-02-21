@@ -1,6 +1,4 @@
-# Project Name
-> ### **Assignment - Advanced Regression | House Price Prediction**
-
+# Assignment - Advanced Regression | House Price Prediction
 
 ## Table of Contents
 * [General Info](#general-information)
